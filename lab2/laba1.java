@@ -5,6 +5,9 @@
  * @date Февраль 2021 года
  * Калькулятор рабоатет с двумя переменными и можешь выводить на консоль либо возвращать результат
 */
+/*
+Fork chek
+*/
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
