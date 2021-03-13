@@ -6,7 +6,7 @@
  * Калькулятор рабоатет с двумя переменными и можешь выводить на консоль либо возвращать результат
 */
 /*
-Fork check12345
+Fork check123456
 */
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
