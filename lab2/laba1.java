@@ -10,6 +10,8 @@ Fork check1234567
 */
 //merge myfeature -> develop
 //myfeature 2.0
+//myrelease 1.0
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.concurrent.TimeUnit;
@@ -100,7 +102,7 @@ public class laba1 {
         public static double Sum(double value1, double value2){
             _value1 = value1;
             _value2 = value2;
-            _result = _value1 + _value2;
+            _result = _value1 - _value2; //-------------------------------------------------------------------
             return _result;
         }
 
